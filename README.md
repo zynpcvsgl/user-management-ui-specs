@@ -1,4 +1,3 @@
-# user-management-ui-specs
 # User Management Screen UI Specification
 
 This document outlines the requirements, UI components, behavior of the page when using these components, and initial display for the user. This document will be used by software developers to develop this user interface.
